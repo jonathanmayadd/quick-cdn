@@ -1,0 +1,2 @@
+# quick-cdn
+Simulate CDN

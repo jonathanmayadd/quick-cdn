@@ -1,4 +1,4 @@
 {
-  "sessionSampleRate": 5,
-  "replaySessionSampleRate": 4
+  "sessionSampleRate": 100,
+  "replaySessionSampleRate": 100
 }
